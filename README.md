@@ -18,8 +18,8 @@
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/aravinditte/Layout-Generator-AI.git
-2. 
-### Set Up Virtual Environment (Python 3.8/3.9 recommended)
+
+2. **Set Up Virtual Environment (Python 3.8/3.9 recommended)**
 ```bash
 python -m venv .venv
 .venv\Scripts\activate  # Windows
